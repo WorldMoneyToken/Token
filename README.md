@@ -5,10 +5,10 @@
     <img src="images/logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">CoinGecko.Directory</h3>
+  <h3 align="center">World Money Token</h3>
 
   <p align="center">
-    The most accurate live prices, charts and market rates from trusted top crypto exchanges globally.
+    World Money Token (WMT) is an ERC20 (BSC-20) token on the Binance Smart Chain (BSC) network meant to generate profit for its holders, at each transaction.
     <br />
     <a href="https://github.com/TOlinkLimited/coingecko.directory/tree/master/Projects">Project Files</a>
     ·
