@@ -8,7 +8,7 @@
   <h3 align="center">World Money Token</h3>
 
   <p align="center">
-    World Money Token (WMT) is an ERC20 (BSC-20) token on the Binance Smart Chain (BSC) network meant to generate profit for its holders, at each transaction.
+    World Money Token (WMT) is an ERC20 token on the Binance Smart Chain (BSC) network meant to generate profit for its holders, at each transaction.
     <br />
     <a href="https://github.com/TOlinkLimited/coingecko.directory/tree/master/Projects">Project Files</a>
     ·
