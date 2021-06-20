@@ -12,14 +12,14 @@
     ·
     <a href="https://wmt.finance" target="_Blank">Website</a>
     ·
-    <a href="https://github.com/TOlinkLimited/coingecko.directory/tree/master/Mobile%20Apps">Mobile Apps</a>
+    <a href="https://github.com/WorldMoneyToken/Token/blob/main/docs/whitepaper.pdf">Whitepaper</a>
   </p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
 ## About WMT Project
 
-**CoinGecko.Directory** shows the most accurate live prices, charts and market rates from trusted top crypto exchanges globally. **CoinGecko.Directory** have over 5000+ cryptocurrencies, trusted historical data, details of active, upcoming and finished ICOs. The website provides a list of cryptocurrency and blockchain related events, valid and authentic list of cryptocurrency wallets and Bitcoin mining pools. We also provide rich advertisement campaings to advertise your business on this website.
+**World Money Token (WMT)** is an ERC20 (BSC-20) token on the Binance Smart Chain (BSC) network meant to generate profit for its holders, at each transaction.
 
 
 ### Project Infos
