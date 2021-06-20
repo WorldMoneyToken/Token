@@ -23,6 +23,7 @@
 
 Each **World Money Token (WMT)** transaction is charged 5% as follows: 1% network development fee + 4% fee which is distributed to all World Money Token (WMT) holders. The more a person holds WMT Tokens, the more profit he generates, thus stimulating people to invest and hold this token.
 
+**90%** of the funds raised from the initial DEX offering (IDO), initial Ape Offerings (IAO) and Initial Farm Offerings (IFO) will be blocked in the exchanges where the initial initial offering was made.
 
 ### Project Infos
 
