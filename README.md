@@ -27,6 +27,6 @@ Each **World Money Token (WMT)** transaction is charged 5% as follows: 1% networ
 
 
 ------------
-Copyright © 2021 [WMT Smart Finance Solutions™](https://wmt.finance)™. All rights reserved.
+Copyright © 2021 [WMT Smart Finance Solutions](https://wmt.finance)™. All rights reserved.
 
 ------------
