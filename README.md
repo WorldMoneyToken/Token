@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/WorldMoneyToken">
-    <img src="images/logo.png" alt="Logo">
+    <img src="images/wmt-logo.png" alt="Logo">
   </a>
 
   <h3 align="center">World Money Token</h3>
