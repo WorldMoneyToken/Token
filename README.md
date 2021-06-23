@@ -8,7 +8,7 @@
   <h3 align="center">World Money Token</h3>
 
   <p align="center">
-    <a href="https://github.com/WorldMoneyToken/Token/blob/main/solidity/ERC-20.sol">Project Files</a>
+    <a href="https://github.com/WorldMoneyToken/Token/tree/main/solidity">Project Files</a>
     ·
     <a href="https://bscscan.com/address/0xcbfb6cc72779116fc7486a9d835047f75a15f0d4#code">Contract</a>
     ·
