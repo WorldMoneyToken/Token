@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/WorldMoneyToken">
-    <img src="images/wmt-logo.png" alt="Logo">
+    <img src="images/logo/wmt-logo.png" alt="Logo">
   </a>
 
   <h3 align="center">World Money Token</h3>
@@ -10,9 +10,11 @@
   <p align="center">
     <a href="https://github.com/WorldMoneyToken/Token/blob/main/solidity/ERC-20.sol">Project Files</a>
     ·
-    <a href="https://wmt.finance" target="_Blank">Website</a>
+    <a href="https://bscscan.com/address/0xcbfb6cc72779116fc7486a9d835047f75a15f0d4#code">Contract</a>
     ·
     <a href="https://github.com/WorldMoneyToken/Token/blob/main/docs/whitepaper.pdf">Whitepaper</a>
+    ·
+    <a href="https://wmt.finance" target="_Blank">Website</a>
   </p>
 </p>
 
